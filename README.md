@@ -1,3 +1,3 @@
 # readme.md
 
-Currently working on [MARVINL.COM](https://github.com/macojaune/marvinL)
+Currently contributing on this repository:  [MARVINL.COM redesign](https://github.com/macojaune/marvinL)
